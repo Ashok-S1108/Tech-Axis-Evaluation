@@ -1,0 +1,6 @@
+
+files are added to the different branches 
+git checkout develop
+git add .
+git commit -m"this is Developer first comment"
+git push origin develop
